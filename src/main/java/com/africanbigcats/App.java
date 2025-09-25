@@ -17,4 +17,4 @@ public class App {
             appMenu.update(catList);
         }
     }
-}    
+}
